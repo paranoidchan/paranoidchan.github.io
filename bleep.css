@@ -1,7 +1,9 @@
 body {
-	background-color: #101010;
+	background-color: #131313;
 	color: #F5F5F5;
 	text-align: center;
-	padding: 250px 0;
+	padding: 300px 0;
+	text-transform: lowercase;
+	font-family: 'IBM Plex Mono';
 	
 }
