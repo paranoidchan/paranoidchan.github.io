@@ -1,5 +1,6 @@
 body {
-	background-color: #131313;
+	background-color: #0a0a0a;
+	/*background-image: url("./images/background.png");*/
 	color: #F5F5F5;
 	text-align: center;
 	padding: 300px 0;
@@ -7,3 +8,46 @@ body {
 	font-family: 'IBM Plex Mono';
 	
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: auto;
+	width: 100vw;
+	padding-top: 40px;
+	color: #fff;
+	font-size: 10px;
+}
+
+/*.footer-content{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	
+}
+
+.more{
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 1rem 0 3rem 0;
+}
+
+.more li{
+	margin: 0 10px;
+}
+
+.more a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.more a:hover li{
+	color: #1809be;
+}
+*/
