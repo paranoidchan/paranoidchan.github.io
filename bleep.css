@@ -5,7 +5,8 @@ body {
 	text-align: center;
 	padding: 300px 0;
 	text-transform: lowercase;
-	font-family: 'IBM Plex Mono';
+	font-family: 'Chivo Mono';
+	font-size: 20px;
 	
 }
 
@@ -18,7 +19,7 @@ footer {
 	width: 100vw;
 	padding-top: 40px;
 	color: #fff;
-	font-size: 10px;
+	font-size: 12px;
 }
 
 /*.footer-content{
