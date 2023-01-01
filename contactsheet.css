@@ -1,6 +1,6 @@
 html {
 	background-color: #0a0a0a;
-	background-image: url("https://i.ibb.co/T0YHsfH/gur.webp");
+	background-image: url("./images/gur.webp");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -21,6 +21,6 @@ body {
 	color: #131313;
 	text-transform: lowercase;
 	font-size: 14px;
-	font-family: 'Chivo Mono';
+	/* font-family: 'Chivo Mono'; */
 	
 }
