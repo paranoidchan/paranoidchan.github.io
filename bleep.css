@@ -1,6 +1,6 @@
 html {
-	background-color: #0a0a0a;
-	background-image: url("./images/walkie.webp");
+	background-color: #000000;
+	/* background-image: url("./images/1637154676116.webp"); */
 	background-repeat: no-repeat;
 	background-position: top;
 }
@@ -12,7 +12,7 @@ a:link {
 
 
 body {
-	color: #F5F5F5;
+	color: #ffffff;
 	text-align: center;
 	padding: 300px 0;
 	text-transform: lowercase;
